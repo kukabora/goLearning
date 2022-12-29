@@ -1,0 +1,7 @@
+0 hello
+1 test
+2 go
+3 learning
+4 ua
+5 uchu
+6 golang
